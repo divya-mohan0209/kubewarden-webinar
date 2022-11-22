@@ -5,7 +5,7 @@
 - [Introduction]()
 - [Architecture]()
 - [PSP, PSA, and Kubewarden]()
-- [Demo 1]()
+- [Demo 1](./manifests)
 - [What's new in Kubewarden v1.3]()
 - [Demo 2]()
 
