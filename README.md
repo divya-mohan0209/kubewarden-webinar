@@ -7,7 +7,7 @@
 - [PSP, PSA, and Kubewarden]()
 - [Demo 1](./manifests)
 - [What's new in Kubewarden v1.3]()
-- [Demo 2]()
+- [Demo 2](./manifests-2)
 
 
 
