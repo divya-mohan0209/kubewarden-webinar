@@ -1,12 +1,12 @@
 # Policy-as-code with Kubewarden
 
-## Topics covered
+## The environment
+=> [Rancher Desktop](https://rancherdesktop.io)
+=> [Kubewarden installation](https://docs.kubewarden.io/quick-start)
 
-- [Introduction]()
-- [Architecture]()
-- [PSP, PSA, and Kubewarden]()
+## Demo manifests
+
 - [Demo 1](./manifests)
-- [What's new in Kubewarden v1.3]()
 - [Demo 2](./manifests-2)
 
 
