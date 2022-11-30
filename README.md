@@ -1,8 +1,8 @@
 # Policy-as-code with Kubewarden
 
 ## The environment
-=> [Rancher Desktop](https://rancherdesktop.io)
-=> [Kubewarden installation](https://docs.kubewarden.io/quick-start)
+- [Rancher Desktop](https://rancherdesktop.io)
+- [Kubewarden installation](https://docs.kubewarden.io/quick-start)
 
 ## Demo manifests
 
